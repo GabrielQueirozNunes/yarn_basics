@@ -15,10 +15,10 @@
 ##### Install Node.js accessing the following link:
 
 <a href="https://nodejs.org/en/download/"> 
-    <img src="./assets/nodejs_logo.png" width="20%" height="20%"/>
+    <img src="./assets/nodejs_logo.png" width="15%" height="15%"/>
 </a>
 
-##### In terminal, check the node and npm version to verify if they were installed correctly:
+##### In terminal, check the Node.js and npm version to verify if they were installed correctly:
 
 ~~~Bash
 $ node -v
@@ -30,7 +30,7 @@ $ npm -v
 
 * If the terminal doesn't returned any error, the installation was successfully.
 
-### Now install yarn using the following command:
+### Now install Yarn using the following command:
 
 ~~~Bash
 $ npm install --global yarn
