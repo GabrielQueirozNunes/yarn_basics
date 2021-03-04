@@ -3,7 +3,7 @@
 ## Yarn official website
 
 <a href="https://classic.yarnpkg.com/en/"> 
-    <img src="./assets/yarn_logo.png"/>
+    <img src="./assets/yarn_logo.png" width="30%" height="30%"/>
 </a>
 
 ## Installing Yarn
