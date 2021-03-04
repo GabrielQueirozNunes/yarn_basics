@@ -13,7 +13,10 @@
 #### You get npm by installing Node.js
 
 ##### Install Node.js accessing the following link:
-##### [Node.js Install Website](https://nodejs.org/en/download/)
+
+<a href="https://nodejs.org/en/download/"> 
+    <img src="./assets/nodejs_logo.png" width="20%" height="20%"/>
+</a>
 
 ##### In terminal, check the node and npm version to verify if they were installed correctly:
 
